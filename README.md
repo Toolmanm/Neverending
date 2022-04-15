@@ -40,7 +40,7 @@ Step 4
     
 Step 5
 
-    From there click open the Neverending.uproject file 
+    From there open the folder and click on the Neverending.uproject file 
 
 Step 6
 
