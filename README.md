@@ -45,7 +45,7 @@ Step 5
 
 Step 6
 
-    Enjoy the project
+    Play test the project and let me know of any bugs :)
     
 ## Deployment
 
