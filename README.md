@@ -1,4 +1,3 @@
-WATCH THIS VIDEO THEN DELETE THIS PLS https://www.youtube.com/watch?v=C8FNZ6B7bU8
 # Neverending
 
 Neverending is a post-apocalyptic open world survival game
