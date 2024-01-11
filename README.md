@@ -2,9 +2,6 @@
 
 Neverending is a post-apocalyptic open world survival game
 
-Initially appeared on
-[My Website](https://neverending.ml/)
-
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
